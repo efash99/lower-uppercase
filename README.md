@@ -1,3 +1,5 @@
+[Question.txt](https://github.com/efash99/lower-uppercase/files/9831903/Question.txt)
+![Question](https://user-images.githubusercontent.com/116116335/197001094-398bfd4a-ad72-4cc9-8bbd-dab677b427a8.JPG)
 # lower-uppercase
 Pseudocode and flowchart that converts all characters in any given string to capital letter
 
